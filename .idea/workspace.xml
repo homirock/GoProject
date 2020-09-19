@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82d1786f-9de6-417e-9c4d-37efe8af8d9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.13" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/fmtpkg.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1hKgT3mXfYP4V0zEyNR2wVlRE3m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pkg" />
+  </component>
+  <component name="RecentsManager">
+    <key name="GoReplayTraceAction.RECENT_TRACE_KEY">
+      <recent name="$USER_HOME$/.local/share/rr/latest-trace" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build sreet.go">
+    <configuration name="go build GoProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/get_input_consol.go" />
+      <package value="GoProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build fmtpkg.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/fmtpkg.go" />
+      <package value="GoProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build prog 3.2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/prog 3.2.go" />
+      <package value="GoProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sreet.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="GoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/package2/sreet.go" />
+      <package value="GoProject" />
+      <directory value="$PROJECT_DIR$" />
+      <option name="run" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build sreet.go" />
+      <item itemvalue="Go Build.go build prog 3.2.go" />
+      <item itemvalue="Go Build.go build fmtpkg.go" />
+      <item itemvalue="Go Build.go build GoProject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build prog 3.2.go" />
+        <item itemvalue="Go Build.go build fmtpkg.go" />
+        <item itemvalue="Go Build.go build GoProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="27" width="1084" height="887" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600527126084">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state x="677" y="27" width="1084" height="887" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.887@72.27.1848.887" timestamp="1600527126084" />
+    <state x="1002" y="216" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600530271505">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state x="1002" y="216" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.887@72.27.1848.887" timestamp="1600530271505" />
+    <state width="1802" height="524" key="GridCell.Tab.0.bottom" timestamp="1600534376539">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="524" key="GridCell.Tab.0.bottom/72.27.1848.887@72.27.1848.887" timestamp="1600534376539" />
+    <state width="522" height="207" key="GridCell.Tab.0.bottom/72.27.568.453@72.27.568.453" timestamp="1600452920134" />
+    <state width="1802" height="524" key="GridCell.Tab.0.center" timestamp="1600534376535">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="524" key="GridCell.Tab.0.center/72.27.1848.887@72.27.1848.887" timestamp="1600534376535" />
+    <state width="522" height="207" key="GridCell.Tab.0.center/72.27.568.453@72.27.568.453" timestamp="1600452920132" />
+    <state width="1802" height="524" key="GridCell.Tab.0.left" timestamp="1600534376534">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="524" key="GridCell.Tab.0.left/72.27.1848.887@72.27.1848.887" timestamp="1600534376534" />
+    <state width="522" height="207" key="GridCell.Tab.0.left/72.27.568.453@72.27.568.453" timestamp="1600452920131" />
+    <state width="1802" height="524" key="GridCell.Tab.0.right" timestamp="1600534376537">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="524" key="GridCell.Tab.0.right/72.27.1848.887@72.27.1848.887" timestamp="1600534376537" />
+    <state width="522" height="207" key="GridCell.Tab.0.right/72.27.568.453@72.27.568.453" timestamp="1600452920133" />
+    <state width="1802" height="274" key="GridCell.Tab.1.bottom" timestamp="1600527238631">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="274" key="GridCell.Tab.1.bottom/72.27.1848.887@72.27.1848.887" timestamp="1600527238631" />
+    <state width="1802" height="274" key="GridCell.Tab.1.center" timestamp="1600527238627">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="274" key="GridCell.Tab.1.center/72.27.1848.887@72.27.1848.887" timestamp="1600527238627" />
+    <state width="1802" height="274" key="GridCell.Tab.1.left" timestamp="1600527238627">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="274" key="GridCell.Tab.1.left/72.27.1848.887@72.27.1848.887" timestamp="1600527238627" />
+    <state width="1802" height="274" key="GridCell.Tab.1.right" timestamp="1600527238630">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state width="1802" height="274" key="GridCell.Tab.1.right/72.27.1848.887@72.27.1848.887" timestamp="1600527238630" />
+    <state x="725" y="413" key="com.goide.actions.debugger.GoReplayTraceAction$TraceDirDialog" timestamp="1599844109336">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state x="725" y="413" key="com.goide.actions.debugger.GoReplayTraceAction$TraceDirDialog/72.27.1848.887@72.27.1848.887" timestamp="1599844109336" />
+    <state x="686" y="79" width="620" height="783" key="find.popup" timestamp="1600528918655">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state x="686" y="79" width="620" height="783" key="find.popup/72.27.1848.887@72.27.1848.887" timestamp="1600528918655" />
+    <state x="659" y="217" key="search.everywhere.popup" timestamp="1600545537169">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state x="659" y="217" key="search.everywhere.popup/72.27.1848.887@72.27.1848.887" timestamp="1600545537169" />
+  </component>
+</project>
